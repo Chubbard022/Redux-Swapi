@@ -2,4 +2,18 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  background-color: rgb(216, 216, 216);
+}
+.list__card{
+  padding: 10px;
+}
+.CharactersList_wrapper{
+  border: 1px solid black;
+  padding: 0 auto;
+  width: 60%;
+  background-color: rgb(240, 224, 224);
+  margin: 0 auto;
+  border-radius: 5px;
+  margin-top: 50px;
+  box-shadow: 4px 3px 3px rgb(138, 126, 126);
 }
